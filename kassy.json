@@ -1,0 +1,9 @@
+{
+	"name": "witnessme",
+	"version": 1.0,
+	"startup": "winessme.js",
+	"command": "witnessme",
+	"help": [
+		["{{commandPrefix}}witnessme", "take the shot"]
+	]
+}
